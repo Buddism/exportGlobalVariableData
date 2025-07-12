@@ -11,7 +11,3 @@ add_library(exportGlobalVariableData SHARED
 	src/RedoBlHooks.cpp
 	src/Torque.cpp
 )
-
-target_link_libraries(
-	exportGlobalVariableData
-)
